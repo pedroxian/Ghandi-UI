@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/12/22 01:02:10.690,=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/22 01:02:10.728,=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/12/22 01:03:41.649,C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\GandhiPCH1.h=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/22 01:03:41.656,C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Gandhi.cbproj=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/12/22 01:23:41.670,=D:\ROM-ibm-2\duraplex.mk</Transaction>
+    <Transaction>2020/12/22 01:23:41.698,=D:\ROM-ibm-2\madehelp.jsx</Transaction>
+    <Transaction>2020/12/22 01:23:41.771,=D:\ROM-ibm-2\siath.lua</Transaction>
+    <Transaction>2020/12/22 01:23:41.781,=D:\ROM-ibm-2\boot.yml</Transaction>
+    <Transaction>2020/12/22 02:28:16.237,D:\ROM-ibm-2\Win32\Release\Unit1.dfm=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/22 02:28:16.237,D:\ROM-ibm-2\Win32\Release\Unit1.h=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/12/22 02:28:16.237,D:\ROM-ibm-2\Win32\Release\Unit1.cpp=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/12/22 02:28:28.613,D:\ROM-ibm-2\Win32\GandhiPCH1.h=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\GandhiPCH1.h</Transaction>
+    <Transaction>2020/12/22 02:28:30.515,D:\ROM-ibm-2\Win32\Release\Gandhi.cbproj=C:\Users\Pedroxian\OneDrive\Documents\Embarcadero\Studio\Projects\Gandhi.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
